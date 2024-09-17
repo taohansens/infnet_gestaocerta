@@ -1,0 +1,21 @@
+[submodule "eurekaserver"]
+	path = eurekaserver
+	url = https://github.com/taohansens/gestaocerta_eurekaserver
+[submodule "arquivos"]
+	path = arquivos
+	url = https://github.com/taohansens/gestaocerta_arquivos
+[submodule "audit"]
+	path = audit
+	url = https://github.com/taohansens/gestaocerta_audit
+[submodule "gestaohoras"]
+	path = gestaohoras
+	url = https://github.com/taohansens/gestaocerta_gestaohoras
+[submodule "apigateway"]
+	path = apigateway
+	url = https://github.com/taohansens/gestaocerta_apigateway
+[submodule "empregados"]
+	path = empregados
+	url = https://github.com/taohansens/gestaocerta_empregados
+[submodule "pontoeletronico"]
+	path = pontoeletronico
+	url = https://github.com/taohansens/gestaocerta_pontoeletronico
